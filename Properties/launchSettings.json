@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "_12___AzureConversaoTemperatura": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7008",
+      "launchBrowser": false
+    }
+  }
+}
