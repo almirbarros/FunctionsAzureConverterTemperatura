@@ -1,4 +1,4 @@
-# 🚀 Projeto Function Azure
+# ☁️ Projeto Function Azure
 Esta é uma aplicação Serverless desenvolvida com **C#** e **.NET 10** utilizando o **Isolated Worker Model**. A API está documentada e pode ser testada via **Swagger/OpenAPI**.
 
 ## 🛠️ Estrutura do Projeto e Tecnologias
